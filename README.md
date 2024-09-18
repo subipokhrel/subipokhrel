@@ -49,8 +49,8 @@ Hi! I’m **Subi Pokharel**, a passionate software developer with robust interes
 ![Frameworks](https://img.shields.io/badge/-Frameworks-orange?style=flat-square)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
 
-![Tools](https://img.shields.io/badge/-Tools-brightgreen?style=flat-square)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber) ![Gherkin](https://img.shields.io/badge/Gherkin-22C55E?style=flat-square)
+![Tools](https://img.shields.io/badge/-Tools-yellow?style=flat-square)  
+![Gherkin](https://img.shields.io/badge/Gherkin-22C55E?style=flat-square) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 
 ---
 
