@@ -56,7 +56,7 @@ Hi! I’m **Subi Pokharel**, a passionate software developer with robust interes
 
 ### **📊 GitHub Stats:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subiiiiiii&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subipokhrel&layout=compact&theme=radical)
 
 ---
 
@@ -64,6 +64,6 @@ Hi! I’m **Subi Pokharel**, a passionate software developer with robust interes
 
 [![Email](https://img.shields.io/badge/Email-pokharelsubi@gmail.com-2C3E50?style=flat-square&logo=gmail)](mailto:pokharelsubi@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subi%20Pokharel-0A66C2?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/subipokhrel)  
-[![GitHub](https://img.shields.io/badge/GitHub-subiiiiiii-181717?style=flat-square&logo=github)](https://github.com/subiiiiiii)  
+[![GitHub](https://img.shields.io/badge/GitHub-subipokhrel-181717?style=flat-square&logo=github)](https://github.com/subiiiiiii)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0E76A8?style=flat-square)](http://www.subi.com.np)
 
