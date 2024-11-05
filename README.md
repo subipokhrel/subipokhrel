@@ -1,5 +1,5 @@
 
-# **Subi Pokharel** ![QA Enthusiast on a Mission](https://img.shields.io/badge/QA%20Enthusiast%20on%20a%20Mission-brightgreen?style=flat-square) ![Making Projects Thrive](https://img.shields.io/badge/Making%20Projects%20Thrive-blue?style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/subiiiiiii?label=Follow%20Me&style=social)
+# **Subi Pokharel** ![QA Enthusiast on a Mission](https://img.shields.io/badge/QA%20Enthusiast%20on%20a%20Mission-brightgreen?style=flat-square) ![Making Projects Thrive](https://img.shields.io/badge/Making%20Projects%20Thrive-blue?style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/subipokhrel?label=Follow%20Me&style=social)
 
 
 ### **📌 About Me:**
